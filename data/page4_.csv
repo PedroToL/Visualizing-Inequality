@@ -1,0 +1,435 @@
+"","year","country","c_name","area","income"
+"1",1999,"ARG","Argentina","Urban",177.508221926591
+"2",1999,"BOL","Bolivia","Urban",1088.62257998705
+"3",1999,"BRA","Brazil","Urban",566.762161536887
+"4",1999,"COL","Colombia","Urban",167027.96577884
+"5",1999,"CRI","Costa Rica","Urban",109411.561847169
+"6",1999,"PER","Peru","Urban",219.336253043042
+"7",1999,"PRY","Paraguay","Urban",923304.070206231
+"8",1999,"SLV","El Salvador","Urban",221.497431719571
+"9",1999,"URY","Uruguay","Urban",4023.30840887595
+"10",1999,"BOL","Bolivia","Rural",215.768900744213
+"11",1999,"BRA","Brazil","Rural",265.525991824958
+"12",1999,"COL","Colombia","Rural",86318.2174094246
+"13",1999,"CRI","Costa Rica","Rural",74943.0440837937
+"14",1999,"PER","Peru","Rural",63.7821731217025
+"15",1999,"PRY","Paraguay","Rural",457224.48622101
+"16",1999,"SLV","El Salvador","Rural",88.6500223085404
+"17",2000,"ARG","Argentina","Urban",173.455160257563
+"18",2000,"BOL","Bolivia","Urban",984.707203075417
+"19",2000,"CHL","Chile","Urban",240775.768827216
+"20",2000,"COL","Colombia","Urban",177019.141133327
+"21",2000,"CRI","Costa Rica","Urban",123013.153026027
+"22",2000,"DOM","Dominican Republic","Urban",5981.758206586
+"23",2000,"ECU","Ecuador","Urban",53.567762137485
+"24",2000,"GTM","Guatemala","Urban",1534.05840079933
+"25",2000,"MEX","Mexico","Urban",3234.71095291533
+"26",2000,"PER","Peru","Urban",240.394548345443
+"27",2000,"SLV","El Salvador","Urban",234.305542736175
+"28",2000,"URY","Uruguay","Urban",2814.04652904694
+"29",2000,"BOL","Bolivia","Rural",217.768962648069
+"30",2000,"CHL","Chile","Rural",167279.084414762
+"31",2000,"COL","Colombia","Rural",68812.184476779
+"32",2000,"CRI","Costa Rica","Rural",76618.3542915444
+"33",2000,"DOM","Dominican Republic","Rural",3773.10938996765
+"34",2000,"ECU","Ecuador","Rural",26.404807201522
+"35",2000,"GTM","Guatemala","Rural",680.771653236698
+"36",2000,"MEX","Mexico","Rural",1304.19890127622
+"37",2000,"PER","Peru","Rural",77.9664161182423
+"38",2000,"SLV","El Salvador","Rural",94.0606641460025
+"39",2001,"ARG","Argentina","Urban",156.775427564194
+"40",2001,"BOL","Bolivia","Urban",916.986512268836
+"41",2001,"BRA","Brazil","Urban",625.236447923219
+"42",2001,"COL","Colombia","Urban",184143.549764334
+"43",2001,"CRI","Costa Rica","Urban",141119.05174801
+"44",2001,"DOM","Dominican Republic","Urban",6335.59601377005
+"45",2001,"ECU","Ecuador","Urban",204.237440930571
+"46",2001,"PER","Peru","Urban",233.196853287087
+"47",2001,"PRY","Paraguay","Urban",984782.062419638
+"48",2001,"SLV","El Salvador","Urban",252.20715391675
+"49",2001,"URY","Uruguay","Urban",2790.38127817871
+"50",2001,"BOL","Bolivia","Rural",259.191786459557
+"51",2001,"BRA","Brazil","Rural",271.127457160869
+"52",2001,"COL","Colombia","Rural",70053.3948575182
+"53",2001,"CRI","Costa Rica","Rural",83774.1750316857
+"54",2001,"DOM","Dominican Republic","Rural",3911.22001946376
+"55",2001,"ECU","Ecuador","Rural",100.579526967839
+"56",2001,"PER","Peru","Rural",69.8916413634811
+"57",2001,"PRY","Paraguay","Rural",361308.096832038
+"58",2001,"SLV","El Salvador","Rural",113.453702265525
+"59",2002,"ARG","Argentina","Urban",148.908348228746
+"60",2002,"BOL","Bolivia","Urban",1002.98581536806
+"61",2002,"BRA","Brazil","Urban",669.645042492918
+"62",2002,"COL","Colombia","Urban",227677.159442773
+"63",2002,"CRI","Costa Rica","Urban",151000.845976633
+"64",2002,"DOM","Dominican Republic","Urban",6562.71958399071
+"65",2002,"GTM","Guatemala","Urban",1801.40425171256
+"66",2002,"MEX","Mexico","Urban",3466.71171480347
+"67",2002,"PER","Peru","Urban",228.689678104098
+"68",2002,"PRY","Paraguay","Urban",885264.824969179
+"69",2002,"SLV","El Salvador","Urban",254.79255773949
+"70",2002,"URY","Uruguay","Urban",2636.54354606483
+"71",2002,"BOL","Bolivia","Rural",291.997402333548
+"72",2002,"BRA","Brazil","Rural",293.896745932416
+"73",2002,"COL","Colombia","Rural",96109.976172602
+"74",2002,"CRI","Costa Rica","Rural",91132.6435342305
+"75",2002,"DOM","Dominican Republic","Rural",3493.52873483743
+"76",2002,"GTM","Guatemala","Rural",511.363708855219
+"77",2002,"MEX","Mexico","Rural",1220.43555836806
+"78",2002,"PER","Peru","Rural",68.8894021969235
+"79",2002,"PRY","Paraguay","Rural",398981.761126204
+"80",2002,"SLV","El Salvador","Rural",120.310328539009
+"81",2003,"ARG","Argentina","Urban",505.214414157271
+"82",2003,"BOL","Bolivia","Urban",1540.23208972826
+"83",2003,"BRA","Brazil","Urban",715.115344912706
+"84",2003,"CHL","Chile","Urban",262611.159440315
+"85",2003,"COL","Colombia","Urban",239987.917513504
+"86",2003,"CRI","Costa Rica","Urban",166063.114036454
+"87",2003,"DOM","Dominican Republic","Urban",6750.55965775479
+"88",2003,"ECU","Ecuador","Urban",219.090246795053
+"89",2003,"GTM","Guatemala","Urban",1787.47454580608
+"90",2003,"PER","Peru","Urban",227.647828034035
+"91",2003,"PRY","Paraguay","Urban",1021479.33224637
+"92",2003,"SLV","El Salvador","Urban",250.581539502086
+"93",2003,"URY","Uruguay","Urban",2615.10430328343
+"94",2003,"BOL","Bolivia","Rural",517.024066355983
+"95",2003,"BRA","Brazil","Rural",352.556808665066
+"96",2003,"CHL","Chile","Rural",164031.40214276
+"97",2003,"COL","Colombia","Rural",93003.6834080254
+"98",2003,"CRI","Costa Rica","Rural",101992.714025501
+"99",2003,"DOM","Dominican Republic","Rural",4455.71254973684
+"100",2003,"ECU","Ecuador","Rural",118.513737878343
+"101",2003,"GTM","Guatemala","Rural",589.871690567568
+"102",2003,"PER","Peru","Rural",70.2864467849224
+"103",2003,"PRY","Paraguay","Rural",563146.370561697
+"104",2003,"SLV","El Salvador","Rural",118.861418869211
+"105",2004,"ARG","Argentina","Urban",239.196482083316
+"106",2004,"BRA","Brazil","Urban",767.07018587254
+"107",2004,"COL","Colombia","Urban",255505.470297408
+"108",2004,"CRI","Costa Rica","Urban",172476.501379099
+"109",2004,"DOM","Dominican Republic","Urban",8031.13970404292
+"110",2004,"ECU","Ecuador","Urban",259.631998166294
+"111",2004,"GTM","Guatemala","Urban",1286.70100696611
+"112",2004,"MEX","Mexico","Urban",4227.50188617899
+"113",2004,"PER","Peru","Urban",242.836233751597
+"114",2004,"PRY","Paraguay","Urban",979290.472154255
+"115",2004,"SLV","El Salvador","Urban",265.274068586162
+"116",2004,"URY","Uruguay","Urban",3043.01941795348
+"117",2004,"BRA","Brazil","Rural",386.866798549291
+"118",2004,"COL","Colombia","Rural",99100.6620035112
+"119",2004,"CRI","Costa Rica","Rural",109450.236576411
+"120",2004,"DOM","Dominican Republic","Rural",5330.31133085073
+"121",2004,"ECU","Ecuador","Rural",122.170215698436
+"122",2004,"GTM","Guatemala","Rural",729.922652444751
+"123",2004,"MEX","Mexico","Rural",1634.91796874847
+"124",2004,"PER","Peru","Rural",84.4569454191332
+"125",2004,"PRY","Paraguay","Rural",585774.107890512
+"126",2004,"SLV","El Salvador","Rural",149.774147868954
+"127",2005,"ARG","Argentina","Urban",308.415027475135
+"128",2005,"BOL","Bolivia","Urban",1225.18927161357
+"129",2005,"BRA","Brazil","Urban",843.44415899176
+"130",2005,"COL","Colombia","Urban",285253.523635551
+"131",2005,"CRI","Costa Rica","Urban",193952.889451477
+"132",2005,"DOM","Dominican Republic","Urban",9741.88785364751
+"133",2005,"ECU","Ecuador","Urban",260.847733792312
+"134",2005,"MEX","Mexico","Urban",4220.45677891997
+"135",2005,"PER","Peru","Urban",241.601524316994
+"136",2005,"PRY","Paraguay","Urban",1191107.70826503
+"137",2005,"SLV","El Salvador","Urban",238.022640832374
+"138",2005,"URY","Uruguay","Urban",3241.90953577747
+"139",2005,"BOL","Bolivia","Rural",348.894503145339
+"140",2005,"BRA","Brazil","Rural",413.868444398059
+"141",2005,"COL","Colombia","Rural",110150.768741909
+"142",2005,"CRI","Costa Rica","Rural",126894.576247885
+"143",2005,"DOM","Dominican Republic","Rural",6737.85766286369
+"144",2005,"ECU","Ecuador","Rural",133.107467580862
+"145",2005,"MEX","Mexico","Rural",1575.51286405345
+"146",2005,"PER","Peru","Rural",85.5728252463258
+"147",2005,"PRY","Paraguay","Rural",647994.465459532
+"148",2005,"SLV","El Salvador","Rural",130.398874899512
+"149",2006,"ARG","Argentina","Urban",404.752144347423
+"150",2006,"BOL","Bolivia","Urban",1338.58680415892
+"151",2006,"BRA","Brazil","Urban",927.844623670465
+"152",2006,"CHL","Chile","Urban",311187.877828197
+"153",2006,"CRI","Costa Rica","Urban",222890.87081745
+"154",2006,"DOM","Dominican Republic","Urban",10797.4292639368
+"155",2006,"ECU","Ecuador","Urban",286.917218543046
+"156",2006,"GTM","Guatemala","Urban",2217.03460488454
+"157",2006,"MEX","Mexico","Urban",4086.59372479134
+"158",2006,"PER","Peru","Urban",280.343709258372
+"159",2006,"PRY","Paraguay","Urban",1235730.83450763
+"160",2006,"SLV","El Salvador","Urban",253.016133016863
+"161",2006,"URY","Uruguay","Urban",2982.40030981827
+"162",2006,"BOL","Bolivia","Rural",363.11872833636
+"163",2006,"BRA","Brazil","Rural",470.02682937772
+"164",2006,"CHL","Chile","Rural",247418.919712352
+"165",2006,"CRI","Costa Rica","Rural",151000.901814845
+"166",2006,"DOM","Dominican Republic","Rural",7004.69163611674
+"167",2006,"ECU","Ecuador","Rural",148.921531240833
+"168",2006,"GTM","Guatemala","Rural",1253.14190944286
+"169",2006,"MEX","Mexico","Rural",1641.6970536655
+"170",2006,"PER","Peru","Rural",96.7892959913457
+"171",2006,"PRY","Paraguay","Rural",602960.31640418
+"172",2006,"SLV","El Salvador","Rural",137.919057275522
+"173",2006,"URY","Uruguay","Rural",2893.11166729084
+"174",2007,"ARG","Argentina","Urban",543.318347371736
+"175",2007,"BOL","Bolivia","Urban",1411.83038332976
+"176",2007,"BRA","Brazil","Urban",1001.28883817171
+"177",2007,"CRI","Costa Rica","Urban",271195.487128713
+"178",2007,"DOM","Dominican Republic","Urban",10924.5391747538
+"179",2007,"ECU","Ecuador","Urban",324.678073806331
+"180",2007,"PER","Peru","Urban",331.372507974712
+"181",2007,"PRY","Paraguay","Urban",1432355.82753865
+"182",2007,"SLV","El Salvador","Urban",270.278010548545
+"183",2007,"URY","Uruguay","Urban",4214.62450835786
+"184",2007,"BOL","Bolivia","Rural",340.129418186262
+"185",2007,"BRA","Brazil","Rural",522.175974557895
+"186",2007,"CRI","Costa Rica","Rural",176564.474681205
+"187",2007,"DOM","Dominican Republic","Rural",7423.2243467095
+"188",2007,"ECU","Ecuador","Rural",161.820377479207
+"189",2007,"PER","Peru","Rural",103.634037233637
+"190",2007,"PRY","Paraguay","Rural",962875.36947966
+"191",2007,"SLV","El Salvador","Rural",145.524952790979
+"192",2007,"URY","Uruguay","Rural",3041.03044824381
+"193",2008,"ARG","Argentina","Urban",643.235739241036
+"194",2008,"BOL","Bolivia","Urban",1755.25263273716
+"195",2008,"BRA","Brazil","Urban",1093.76378097402
+"196",2008,"COL","Colombia","Urban",706532.246753832
+"197",2008,"CRI","Costa Rica","Urban",308805.603914123
+"198",2008,"DOM","Dominican Republic","Urban",11060.1884857372
+"199",2008,"ECU","Ecuador","Urban",346.483479133003
+"200",2008,"MEX","Mexico","Urban",4301.836206994
+"201",2008,"PER","Peru","Urban",363.576363983493
+"202",2008,"PRY","Paraguay","Urban",1454139.04615689
+"203",2008,"SLV","El Salvador","Urban",284.165224754248
+"204",2008,"URY","Uruguay","Urban",5130.99880320368
+"205",2008,"BOL","Bolivia","Rural",474.476618207795
+"206",2008,"BRA","Brazil","Rural",575.695690114898
+"207",2008,"COL","Colombia","Rural",317734.20933329
+"208",2008,"CRI","Costa Rica","Rural",211279.634807418
+"209",2008,"DOM","Dominican Republic","Rural",7224.60377261978
+"210",2008,"ECU","Ecuador","Rural",181.385023300659
+"211",2008,"MEX","Mexico","Rural",1876.05798864073
+"212",2008,"PER","Peru","Rural",124.960434300065
+"213",2008,"PRY","Paraguay","Rural",1028462.22806081
+"214",2008,"SLV","El Salvador","Rural",167.550759117279
+"215",2008,"URY","Uruguay","Rural",3703.75053289198
+"216",2009,"ARG","Argentina","Urban",760.595588600985
+"217",2009,"BOL","Bolivia","Urban",1805.40144332501
+"218",2009,"BRA","Brazil","Urban",1168.41048661638
+"219",2009,"CHL","Chile","Urban",383634.230458805
+"220",2009,"COL","Colombia","Urban",739004.017385105
+"221",2009,"CRI","Costa Rica","Urban",354147.107973856
+"222",2009,"DOM","Dominican Republic","Urban",12043.2938858436
+"223",2009,"ECU","Ecuador","Urban",324.196951735817
+"224",2009,"PER","Peru","Urban",476.73419117581
+"225",2009,"PRY","Paraguay","Urban",1543068.8996998
+"226",2009,"SLV","El Salvador","Urban",283.240702695676
+"227",2009,"URY","Uruguay","Urban",6007.73225875983
+"228",2009,"BOL","Bolivia","Rural",617.080942926861
+"229",2009,"BRA","Brazil","Rural",619.79906276626
+"230",2009,"CHL","Chile","Rural",301824.587229306
+"231",2009,"COL","Colombia","Rural",312274.184485287
+"232",2009,"CRI","Costa Rica","Rural",233953.758074562
+"233",2009,"DOM","Dominican Republic","Rural",7760.92943861831
+"234",2009,"ECU","Ecuador","Rural",187.489386885505
+"235",2009,"PER","Peru","Rural",168.144161496893
+"236",2009,"PRY","Paraguay","Rural",886431.041774489
+"237",2009,"SLV","El Salvador","Rural",175.247013080485
+"238",2009,"URY","Uruguay","Rural",4107.89196463487
+"239",2010,"ARG","Argentina","Urban",959.040906145599
+"240",2010,"COL","Colombia","Urban",760066.373418953
+"241",2010,"CRI","Costa Rica","Urban",350751.522593186
+"242",2010,"DOM","Dominican Republic","Urban",11684.0398953044
+"243",2010,"ECU","Ecuador","Urban",370.646799717222
+"244",2010,"GTM","Guatemala","Urban",2390.41664014787
+"245",2010,"MEX","Mexico","Urban",3851.37704876008
+"246",2010,"PER","Peru","Urban",506.437218227055
+"247",2010,"PRY","Paraguay","Urban",1963239.95511598
+"248",2010,"SLV","El Salvador","Urban",106.261164807682
+"249",2010,"URY","Uruguay","Urban",6627.0120941504
+"250",2010,"COL","Colombia","Rural",324266.705489118
+"251",2010,"CRI","Costa Rica","Rural",250961.310225812
+"252",2010,"DOM","Dominican Republic","Rural",8063.08962726798
+"253",2010,"ECU","Ecuador","Rural",206.8440936635
+"254",2010,"GTM","Guatemala","Rural",1245.2669757882
+"255",2010,"MEX","Mexico","Rural",1524.20853007886
+"256",2010,"PER","Peru","Rural",193.465362287022
+"257",2010,"PRY","Paraguay","Rural",1046604.17027732
+"258",2010,"SLV","El Salvador","Rural",45.4530663660218
+"259",2010,"URY","Uruguay","Rural",4557.75138987459
+"260",2011,"ARG","Argentina","Urban",1251.78972096537
+"261",2011,"BOL","Bolivia","Urban",2131.40993451
+"262",2011,"BRA","Brazil","Urban",1413.92496882723
+"263",2011,"CHL","Chile","Urban",471897.336096265
+"264",2011,"COL","Colombia","Urban",807933.090202166
+"265",2011,"CRI","Costa Rica","Urban",416567.55010941
+"266",2011,"DOM","Dominican Republic","Urban",12595.2908201556
+"267",2011,"ECU","Ecuador","Urban",409.182180851064
+"268",2011,"GTM","Guatemala","Urban",2526.96899493404
+"269",2011,"PER","Peru","Urban",448.365116333457
+"270",2011,"PRY","Paraguay","Urban",2071494.01022342
+"271",2011,"SLV","El Salvador","Urban",284.827190700572
+"272",2011,"URY","Uruguay","Urban",7394.1317382709
+"273",2011,"BOL","Bolivia","Rural",813.329713693707
+"274",2011,"BRA","Brazil","Rural",755.938390831346
+"275",2011,"CHL","Chile","Rural",370158.772276555
+"276",2011,"COL","Colombia","Rural",354524.671562678
+"277",2011,"CRI","Costa Rica","Rural",275789.234890805
+"278",2011,"DOM","Dominican Republic","Rural",8957.58643530067
+"279",2011,"ECU","Ecuador","Rural",234.067900092507
+"280",2011,"GTM","Guatemala","Rural",1505.50080579259
+"281",2011,"PER","Peru","Rural",180.279409357002
+"282",2011,"PRY","Paraguay","Rural",1221132.00985478
+"283",2011,"SLV","El Salvador","Rural",182.658198366658
+"284",2011,"URY","Uruguay","Rural",5127.64286864702
+"285",2012,"ARG","Argentina","Urban",1550.31385656292
+"286",2012,"BOL","Bolivia","Urban",2333.09679548
+"287",2012,"BRA","Brazil","Urban",1573.33039660261
+"288",2012,"COL","Colombia","Urban",830989.287925803
+"289",2012,"CRI","Costa Rica","Urban",393899.545953768
+"290",2012,"DOM","Dominican Republic","Urban",12451.8321723898
+"291",2012,"ECU","Ecuador","Urban",441.630685514875
+"292",2012,"GTM","Guatemala","Urban",2636.78261280395
+"293",2012,"MEX","Mexico","Urban",4203.39236433566
+"294",2012,"PER","Peru","Urban",490.336150234819
+"295",2012,"PRY","Paraguay","Urban",1886681.0626984
+"296",2012,"SLV","El Salvador","Urban",292.486064251117
+"297",2012,"URY","Uruguay","Urban",8275.72471099769
+"298",2012,"BOL","Bolivia","Rural",1022.28910402252
+"299",2012,"BRA","Brazil","Rural",848.657457607567
+"300",2012,"COL","Colombia","Rural",345508.573578151
+"301",2012,"CRI","Costa Rica","Rural",266541.442675639
+"302",2012,"DOM","Dominican Republic","Rural",8950.55277122415
+"303",2012,"ECU","Ecuador","Rural",250.143721895538
+"304",2012,"GTM","Guatemala","Rural",1361.38864094629
+"305",2012,"MEX","Mexico","Rural",1763.25416586095
+"306",2012,"PER","Peru","Rural",193.319369300937
+"307",2012,"PRY","Paraguay","Rural",1017362.55288137
+"308",2012,"SLV","El Salvador","Rural",192.582970640797
+"309",2012,"URY","Uruguay","Rural",5983.80527173971
+"310",2013,"ARG","Argentina","Urban",1973.91369095419
+"311",2013,"BOL","Bolivia","Urban",2748.33970327966
+"312",2013,"BRA","Brazil","Urban",1731.90806313525
+"313",2013,"CHL","Chile","Urban",521234.961855089
+"314",2013,"COL","Colombia","Urban",871915.677174561
+"315",2013,"CRI","Costa Rica","Urban",426759.425616446
+"316",2013,"DOM","Dominican Republic","Urban",13353.02750416
+"317",2013,"ECU","Ecuador","Urban",486.858533272974
+"318",2013,"GTM","Guatemala","Urban",2785.22068793151
+"319",2013,"PER","Peru","Urban",521.479534557022
+"320",2013,"PRY","Paraguay","Urban",2213054.86783574
+"321",2013,"SLV","El Salvador","Urban",324.582141350438
+"322",2013,"URY","Uruguay","Urban",9114.35226572648
+"323",2013,"BOL","Bolivia","Rural",1194.02290964908
+"324",2013,"BRA","Brazil","Rural",946.893358331913
+"325",2013,"CHL","Chile","Rural",402204.544019825
+"326",2013,"COL","Colombia","Rural",373634.424677457
+"327",2013,"CRI","Costa Rica","Rural",276729.915011754
+"328",2013,"DOM","Dominican Republic","Rural",9576.35702743031
+"329",2013,"ECU","Ecuador","Rural",278.527318257702
+"330",2013,"GTM","Guatemala","Rural",1504.60997097055
+"331",2013,"PER","Peru","Rural",198.642123104152
+"332",2013,"PRY","Paraguay","Rural",1217882.60681017
+"333",2013,"SLV","El Salvador","Rural",201.996914813204
+"334",2013,"URY","Uruguay","Rural",6546.95408385328
+"335",2014,"ARG","Argentina","Urban",2555.47221927382
+"336",2014,"BOL","Bolivia","Urban",2942.41450536646
+"337",2014,"BRA","Brazil","Urban",1846.29280979236
+"338",2014,"COL","Colombia","Urban",911542.989224658
+"339",2014,"CRI","Costa Rica","Urban",436272.736195264
+"340",2014,"DOM","Dominican Republic","Urban",14815.7502696843
+"341",2014,"ECU","Ecuador","Urban",527.103668881663
+"342",2014,"GTM","Guatemala","Urban",3028.50083749475
+"343",2014,"MEX","Mexico","Urban",4317.62646184205
+"344",2014,"PER","Peru","Urban",545.360701458149
+"345",2014,"PRY","Paraguay","Urban",2426058.28339466
+"346",2014,"SLV","El Salvador","Urban",320.726154163585
+"347",2014,"URY","Uruguay","Urban",10427.2253552596
+"348",2014,"BOL","Bolivia","Rural",1036.47061462413
+"349",2014,"BRA","Brazil","Rural",1025.11763032097
+"350",2014,"COL","Colombia","Rural",392548.700114243
+"351",2014,"CRI","Costa Rica","Rural",284867.181695352
+"352",2014,"DOM","Dominican Republic","Rural",10492.1355785977
+"353",2014,"ECU","Ecuador","Rural",306.27844979448
+"354",2014,"GTM","Guatemala","Rural",1573.72877896599
+"355",2014,"MEX","Mexico","Rural",1780.73794687491
+"356",2014,"PER","Peru","Rural",201.312405991477
+"357",2014,"PRY","Paraguay","Rural",1543052.48758887
+"358",2014,"SLV","El Salvador","Rural",214.898559877318
+"359",2014,"URY","Uruguay","Rural",7489.62169265685
+"360",2016,"ARG","Argentina","Urban",3585.225292088
+"361",2016,"BOL","Bolivia","Urban",2884.75814522982
+"362",2016,"BRA","Brazil","Urban",1973.60192302356
+"363",2016,"COL","Colombia","Urban",1015414.42808569
+"364",2016,"CRI","Costa Rica","Urban",458409.623102746
+"365",2016,"DOM","Dominican Republic","Urban",17511.1150872522
+"366",2016,"ECU","Ecuador","Urban",532.616640142122
+"367",2016,"GTM","Guatemala","Urban",3115.0044372091
+"368",2016,"MEX","Mexico","Urban",4885.74688592172
+"369",2016,"PER","Peru","Urban",597.628140386052
+"370",2016,"PRY","Paraguay","Urban",2291378.49903554
+"371",2016,"SLV","El Salvador","Urban",322.113619290162
+"372",2016,"URY","Uruguay","Urban",12662.1585313714
+"373",2016,"BOL","Bolivia","Rural",1094.54457064912
+"374",2016,"BRA","Brazil","Rural",1125.07743149477
+"375",2016,"COL","Colombia","Rural",454918.498175164
+"376",2016,"CRI","Costa Rica","Rural",291765.167818182
+"377",2016,"DOM","Dominican Republic","Rural",12939.6172890728
+"378",2016,"ECU","Ecuador","Rural",314.693946051507
+"379",2016,"GTM","Guatemala","Rural",1608.36556492953
+"380",2016,"MEX","Mexico","Rural",2587.73291299734
+"381",2016,"PER","Peru","Rural",216.831229339329
+"382",2016,"PRY","Paraguay","Rural",1298081.87969386
+"383",2016,"SLV","El Salvador","Rural",218.537572733912
+"384",2016,"URY","Uruguay","Rural",8473.41794787174
+"385",2017,"ARG","Argentina","Urban",4945.98922319334
+"386",2017,"BOL","Bolivia","Urban",3082.42033481487
+"387",2017,"BRA","Brazil","Urban",2073.12535393972
+"388",2017,"CHL","Chile","Urban",573586.851867159
+"389",2017,"COL","Colombia","Urban",1065245.51599852
+"390",2017,"CRI","Costa Rica","Urban",470454.536730083
+"391",2017,"DOM","Dominican Republic","Urban",17934.7027087158
+"392",2017,"ECU","Ecuador","Urban",553.814478970843
+"393",2017,"GTM","Guatemala","Urban",3220.8288671488
+"394",2017,"PER","Peru","Urban",610.907203721784
+"395",2017,"PRY","Paraguay","Urban",2492285.17423337
+"396",2017,"SLV","El Salvador","Urban",340.109621154186
+"397",2017,"URY","Uruguay","Urban",14055.147065001
+"398",2017,"BOL","Bolivia","Rural",1272.39581721027
+"399",2017,"BRA","Brazil","Rural",1176.84141171911
+"400",2017,"CHL","Chile","Rural",402379.019148936
+"401",2017,"COL","Colombia","Rural",492032.437078154
+"402",2017,"CRI","Costa Rica","Rural",314675.812869723
+"403",2017,"DOM","Dominican Republic","Rural",13835.0355360939
+"404",2017,"ECU","Ecuador","Rural",330.768081180812
+"405",2017,"GTM","Guatemala","Rural",1680.5526212609
+"406",2017,"PER","Peru","Rural",213.268056266718
+"407",2017,"PRY","Paraguay","Rural",1385695.60936236
+"408",2017,"SLV","El Salvador","Rural",231.518151475237
+"409",2017,"URY","Uruguay","Rural",9617.99590291046
+"410",2018,"ARG","Argentina","Urban",6257.85984059614
+"411",2018,"BOL","Bolivia","Urban",3097.24471305868
+"412",2018,"BRA","Brazil","Urban",2211.42726539769
+"413",2018,"COL","Colombia","Urban",1117118.35999373
+"414",2018,"CRI","Costa Rica","Urban",471230.182999049
+"415",2018,"DOM","Dominican Republic","Urban",19199.261481427
+"416",2018,"ECU","Ecuador","Urban",548.712782340862
+"417",2018,"GTM","Guatemala","Urban",3308.42777881603
+"418",2018,"MEX","Mexico","Urban",5289.49425367562
+"419",2018,"PER","Peru","Urban",629.128177922052
+"420",2018,"PRY","Paraguay","Urban",2632483.17864215
+"421",2018,"SLV","El Salvador","Urban",350.858627340848
+"422",2018,"URY","Uruguay","Urban",14633.8157139238
+"423",2018,"BOL","Bolivia","Rural",1254.58369740218
+"424",2018,"BRA","Brazil","Rural",1233.80441212719
+"425",2018,"COL","Colombia","Rural",491170.700558135
+"426",2018,"CRI","Costa Rica","Rural",313039.658100024
+"427",2018,"DOM","Dominican Republic","Rural",14738.4323106435
+"428",2018,"ECU","Ecuador","Rural",315.834374277122
+"429",2018,"GTM","Guatemala","Rural",1686.36375957245
+"430",2018,"MEX","Mexico","Rural",3009.96966522548
+"431",2018,"PER","Peru","Rural",248.550867677607
+"432",2018,"PRY","Paraguay","Rural",1430487.40598654
+"433",2018,"SLV","El Salvador","Rural",247.114937430973
+"434",2018,"URY","Uruguay","Rural",10109.2020245332

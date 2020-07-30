@@ -1,0 +1,461 @@
+"","year","country","c_name","sex","income"
+"1",1999,"ARG","Argentina","Hombre",252.667136203567
+"2",1999,"BOL","Bolivia","Hombre",803.005408422169
+"3",1999,"BRA","Brazil","Hombre",589.252846495594
+"4",1999,"COL","Colombia","Hombre",206381.881065883
+"5",1999,"CRI","Costa Rica","Hombre",94909.7286066078
+"6",1999,"PER","Peru","Hombre",248.54837105551
+"7",1999,"PRY","Paraguay","Hombre",794434.094237811
+"8",1999,"SLV","El Salvador","Hombre",179.606280217313
+"9",1999,"URY","Uruguay","Hombre",5372.36111528353
+"10",1999,"ARG","Argentina","Mujer",108.142521649787
+"11",1999,"BOL","Bolivia","Mujer",413.970886722218
+"12",1999,"BRA","Brazil","Mujer",406.965450035436
+"13",1999,"COL","Colombia","Mujer",88494.9476464641
+"14",1999,"CRI","Costa Rica","Mujer",73465.2977949534
+"15",1999,"PER","Peru","Mujer",96.1760522825095
+"16",1999,"PRY","Paraguay","Mujer",580695.180949242
+"17",1999,"SLV","El Salvador","Mujer",160.590229402774
+"18",1999,"URY","Uruguay","Mujer",2670.24762312275
+"19",2000,"ARG","Argentina","Hombre",242.480786528083
+"20",2000,"BOL","Bolivia","Hombre",751.941184263638
+"21",2000,"CHL","Chile","Hombre",228946.362494549
+"22",2000,"COL","Colombia","Hombre",207914.734678616
+"23",2000,"CRI","Costa Rica","Hombre",105296.59574905
+"24",2000,"DOM","Dominican Republic","Hombre",5815.573270315
+"25",2000,"ECU","Ecuador","Hombre",65.3579077730021
+"26",2000,"GTM","Guatemala","Hombre",1225.25801620957
+"27",2000,"MEX","Mexico","Hombre",2866.31767599674
+"28",2000,"PER","Peru","Hombre",256.498040957665
+"29",2000,"SLV","El Salvador","Hombre",185.944020630938
+"30",2000,"URY","Uruguay","Hombre",3974.88526778374
+"31",2000,"ARG","Argentina","Mujer",109.759274202845
+"32",2000,"BOL","Bolivia","Mujer",391.880824549181
+"33",2000,"CHL","Chile","Mujer",172872.690375878
+"34",2000,"COL","Colombia","Mujer",95478.7602751947
+"35",2000,"CRI","Costa Rica","Mujer",80325.6383928571
+"36",2000,"DOM","Dominican Republic","Mujer",4391.33664510081
+"37",2000,"ECU","Ecuador","Mujer",21.4085892174897
+"38",2000,"GTM","Guatemala","Mujer",863.560221113819
+"39",2000,"MEX","Mexico","Mujer",1359.99567276193
+"40",2000,"PER","Peru","Mujer",96.5748441385793
+"41",2000,"SLV","El Salvador","Mujer",173.205898654615
+"42",2000,"URY","Uruguay","Mujer",1786.55414580751
+"43",2001,"ARG","Argentina","Hombre",218.515693394349
+"44",2001,"BOL","Bolivia","Hombre",700.167650820669
+"45",2001,"BRA","Brazil","Hombre",660.816605972323
+"46",2001,"COL","Colombia","Hombre",241229.694223936
+"47",2001,"CRI","Costa Rica","Hombre",118209.442341357
+"48",2001,"DOM","Dominican Republic","Hombre",6216.13915190128
+"49",2001,"ECU","Ecuador","Hombre",186.164006526211
+"50",2001,"PER","Peru","Hombre",240.795764011165
+"51",2001,"PRY","Paraguay","Hombre",862325.998796196
+"52",2001,"SLV","El Salvador","Hombre",220.180096092879
+"53",2001,"URY","Uruguay","Hombre",3921.68989669011
+"54",2001,"ARG","Argentina","Mujer",100.041434317579
+"55",2001,"BOL","Bolivia","Mujer",345.145995809478
+"56",2001,"BRA","Brazil","Mujer",461.084495919979
+"57",2001,"COL","Colombia","Mujer",117538.250784676
+"58",2001,"CRI","Costa Rica","Mujer",87440.3310512367
+"59",2001,"DOM","Dominican Republic","Mujer",4678.62540299738
+"60",2001,"ECU","Ecuador","Mujer",129.253889397307
+"61",2001,"PER","Peru","Mujer",96.9702191403118
+"62",2001,"PRY","Paraguay","Mujer",583799.850009493
+"63",2001,"SLV","El Salvador","Mujer",177.947634168505
+"64",2001,"URY","Uruguay","Mujer",1805.00277021575
+"65",2002,"ARG","Argentina","Hombre",204.457089084065
+"66",2002,"BOL","Bolivia","Hombre",828.182697948897
+"67",2002,"BRA","Brazil","Hombre",707.625639741272
+"68",2002,"COL","Colombia","Hombre",302841.636965694
+"69",2002,"CRI","Costa Rica","Hombre",126230.090400651
+"70",2002,"DOM","Dominican Republic","Hombre",6112.94622876474
+"71",2002,"GTM","Guatemala","Hombre",1555.08617919301
+"72",2002,"MEX","Mexico","Hombre",3182.95072832422
+"73",2002,"PER","Peru","Hombre",241.813967936297
+"74",2002,"PRY","Paraguay","Hombre",735461.359092946
+"75",2002,"SLV","El Salvador","Hombre",227.898984839397
+"76",2002,"URY","Uruguay","Hombre",3654.57923677565
+"77",2002,"ARG","Argentina","Mujer",98.0311199981613
+"78",2002,"BOL","Bolivia","Mujer",429.837862868547
+"79",2002,"BRA","Brazil","Mujer",501.105637565961
+"80",2002,"COL","Colombia","Mujer",145664.572279635
+"81",2002,"CRI","Costa Rica","Mujer",95032.1368003342
+"82",2002,"DOM","Dominican Republic","Mujer",4895.80822142234
+"83",2002,"GTM","Guatemala","Mujer",1146.05963946341
+"84",2002,"MEX","Mexico","Mujer",1630.12842463962
+"85",2002,"PER","Peru","Mujer",95.9213598137009
+"86",2002,"PRY","Paraguay","Mujer",519303.009944415
+"87",2002,"SLV","El Salvador","Mujer",183.453894414069
+"88",2002,"URY","Uruguay","Mujer",1744.85547504362
+"89",2003,"ARG","Argentina","Hombre",584.215898283025
+"90",2003,"BOL","Bolivia","Hombre",1555.29567182489
+"91",2003,"BRA","Brazil","Hombre",760.137136054868
+"92",2003,"CHL","Chile","Hombre",248641.507735872
+"93",2003,"COL","Colombia","Hombre",317057.413851072
+"94",2003,"CRI","Costa Rica","Hombre",140160.598294786
+"95",2003,"DOM","Dominican Republic","Hombre",6756.92662997762
+"96",2003,"ECU","Ecuador","Hombre",192.954263376496
+"97",2003,"GTM","Guatemala","Hombre",1627.31596539556
+"98",2003,"PER","Peru","Hombre",238.686766270615
+"99",2003,"PRY","Paraguay","Hombre",885744.224102041
+"100",2003,"SLV","El Salvador","Hombre",196.084589972543
+"101",2003,"URY","Uruguay","Hombre",3625.33578946512
+"102",2003,"ARG","Argentina","Mujer",400.405498738212
+"103",2003,"BOL","Bolivia","Mujer",943.507462630269
+"104",2003,"BRA","Brazil","Mujer",538.269194249638
+"105",2003,"CHL","Chile","Mujer",188302.737508973
+"106",2003,"COL","Colombia","Mujer",152756.223332407
+"107",2003,"CRI","Costa Rica","Mujer",106354.147629526
+"108",2003,"DOM","Dominican Republic","Mujer",5065.25702385321
+"109",2003,"ECU","Ecuador","Mujer",142.236134144094
+"110",2003,"GTM","Guatemala","Mujer",1097.58219441748
+"111",2003,"PER","Peru","Mujer",88.4685717515303
+"112",2003,"PRY","Paraguay","Mujer",607505.794842831
+"113",2003,"SLV","El Salvador","Mujer",176.799899433343
+"114",2003,"URY","Uruguay","Mujer",1732.42522572927
+"115",2004,"ARG","Argentina","Hombre",331.428688379503
+"116",2004,"BRA","Brazil","Hombre",821.095991247451
+"117",2004,"COL","Colombia","Hombre",327728.633201153
+"118",2004,"CRI","Costa Rica","Hombre",146389.229039449
+"119",2004,"DOM","Dominican Republic","Hombre",7958.28402034088
+"120",2004,"ECU","Ecuador","Hombre",221.121583227197
+"121",2004,"GTM","Guatemala","Hombre",1365.17193025536
+"122",2004,"MEX","Mexico","Hombre",4303.80855755392
+"123",2004,"PER","Peru","Hombre",256.814476465785
+"124",2004,"PRY","Paraguay","Hombre",889679.746292289
+"125",2004,"SLV","El Salvador","Hombre",227.582731111428
+"126",2004,"URY","Uruguay","Hombre",4307.2008622989
+"127",2004,"ARG","Argentina","Mujer",155.112917540746
+"128",2004,"BRA","Brazil","Mujer",578.345626611331
+"129",2004,"COL","Colombia","Mujer",156691.960358127
+"130",2004,"CRI","Costa Rica","Mujer",115584.209949239
+"131",2004,"DOM","Dominican Republic","Mujer",5826.08900950189
+"132",2004,"ECU","Ecuador","Mujer",154.976965708348
+"133",2004,"GTM","Guatemala","Mujer",948.502830119106
+"134",2004,"MEX","Mexico","Mujer",2172.76355778791
+"135",2004,"PER","Peru","Mujer",95.3831356358208
+"136",2004,"PRY","Paraguay","Mujer",592734.194837693
+"137",2004,"SLV","El Salvador","Mujer",194.447980239396
+"138",2004,"URY","Uruguay","Mujer",1933.54594094004
+"139",2005,"ARG","Argentina","Hombre",430.715627214741
+"140",2005,"BOL","Bolivia","Hombre",997.445559447661
+"141",2005,"BRA","Brazil","Hombre",897.107783815991
+"142",2005,"COL","Colombia","Hombre",362657.50948065
+"143",2005,"CRI","Costa Rica","Hombre",170761.404755422
+"144",2005,"DOM","Dominican Republic","Hombre",9676.78975877966
+"145",2005,"ECU","Ecuador","Hombre",227.177797970619
+"146",2005,"MEX","Mexico","Hombre",3995.14439788004
+"147",2005,"PER","Peru","Hombre",248.133709710127
+"148",2005,"PRY","Paraguay","Hombre",1045940.2124507
+"149",2005,"SLV","El Salvador","Hombre",205.435467385257
+"150",2005,"URY","Uruguay","Hombre",4459.24433238434
+"151",2005,"ARG","Argentina","Mujer",197.218783351121
+"152",2005,"BOL","Bolivia","Mujer",511.79688123655
+"153",2005,"BRA","Brazil","Mujer",640.277351653329
+"154",2005,"COL","Colombia","Mujer",178690.393370044
+"155",2005,"CRI","Costa Rica","Mujer",125707.632594195
+"156",2005,"DOM","Dominican Republic","Mujer",7259.99895861465
+"157",2005,"ECU","Ecuador","Mujer",165.99755412628
+"158",2005,"MEX","Mexico","Mujer",1921.50090132624
+"159",2005,"PER","Peru","Mujer",95.25995001342
+"160",2005,"PRY","Paraguay","Mujer",769737.883450331
+"161",2005,"SLV","El Salvador","Mujer",169.090884338284
+"162",2005,"URY","Uruguay","Mujer",2181.77189782335
+"163",2006,"ARG","Argentina","Hombre",563.211307842536
+"164",2006,"BOL","Bolivia","Hombre",1250.15703918598
+"165",2006,"BRA","Brazil","Hombre",975.662423846823
+"166",2006,"CHL","Chile","Hombre",316285.13862048
+"167",2006,"CRI","Costa Rica","Hombre",197182.915837184
+"168",2006,"DOM","Dominican Republic","Hombre",10620.5102646995
+"169",2006,"ECU","Ecuador","Hombre",250.962562888429
+"170",2006,"GTM","Guatemala","Hombre",1875.51723921943
+"171",2006,"MEX","Mexico","Hombre",4052.54332550999
+"172",2006,"PER","Peru","Hombre",287.619752538694
+"173",2006,"PRY","Paraguay","Hombre",1026914.4368623
+"174",2006,"SLV","El Salvador","Hombre",215.781728992365
+"175",2006,"URY","Uruguay","Hombre",3129.38730963025
+"176",2006,"ARG","Argentina","Mujer",259.204068017731
+"177",2006,"BOL","Bolivia","Mujer",626.725894669675
+"178",2006,"BRA","Brazil","Mujer",709.79909529816
+"179",2006,"CHL","Chile","Mujer",232228.138109283
+"180",2006,"CRI","Costa Rica","Mujer",149148.911863806
+"181",2006,"DOM","Dominican Republic","Mujer",7872.54246374275
+"182",2006,"ECU","Ecuador","Mujer",183.807692307692
+"183",2006,"GTM","Guatemala","Mujer",1322.29278432074
+"184",2006,"MEX","Mexico","Mujer",1962.26104323541
+"185",2006,"PER","Peru","Mujer",111.228529684105
+"186",2006,"PRY","Paraguay","Mujer",743076.610989163
+"187",2006,"SLV","El Salvador","Mujer",178.499102785506
+"188",2006,"URY","Uruguay","Mujer",2814.05001612163
+"189",2007,"ARG","Argentina","Hombre",756.383101539293
+"190",2007,"BOL","Bolivia","Hombre",1232.11805142803
+"191",2007,"BRA","Brazil","Hombre",1061.51086658614
+"192",2007,"CRI","Costa Rica","Hombre",239629.127274245
+"193",2007,"DOM","Dominican Republic","Hombre",10793.7191704992
+"194",2007,"ECU","Ecuador","Hombre",284.236680221041
+"195",2007,"PER","Peru","Hombre",344.959953176096
+"196",2007,"PRY","Paraguay","Hombre",1412120.50416358
+"197",2007,"SLV","El Salvador","Hombre",235.305817940191
+"198",2007,"URY","Uruguay","Hombre",5659.2227382891
+"199",2007,"ARG","Argentina","Mujer",347.842100373186
+"200",2007,"BOL","Bolivia","Mujer",654.95054833964
+"201",2007,"BRA","Brazil","Mujer",766.819536546102
+"202",2007,"CRI","Costa Rica","Mujer",170514.474980514
+"203",2007,"DOM","Dominican Republic","Mujer",8076.66304897043
+"204",2007,"ECU","Ecuador","Mujer",204.331933174224
+"205",2007,"PER","Peru","Mujer",138.896619141377
+"206",2007,"PRY","Paraguay","Mujer",900345.278603978
+"207",2007,"SLV","El Salvador","Mujer",190.139112673817
+"208",2007,"URY","Uruguay","Mujer",2619.37226601346
+"209",2008,"ARG","Argentina","Hombre",877.622982179414
+"210",2008,"BOL","Bolivia","Hombre",1462.85172239599
+"211",2008,"BRA","Brazil","Hombre",1162.11834169837
+"212",2008,"COL","Colombia","Hombre",751358.354778078
+"213",2008,"CRI","Costa Rica","Hombre",273723.564405889
+"214",2008,"DOM","Dominican Republic","Hombre",10382.1500326822
+"215",2008,"ECU","Ecuador","Hombre",307.386614817847
+"216",2008,"MEX","Mexico","Hombre",4394.22546488537
+"217",2008,"PER","Peru","Hombre",388.686646414385
+"218",2008,"PRY","Paraguay","Hombre",1439652.60645526
+"219",2008,"SLV","El Salvador","Hombre",265.898951076741
+"220",2008,"URY","Uruguay","Hombre",6849.78430404277
+"221",2008,"ARG","Argentina","Mujer",427.105372284459
+"222",2008,"BOL","Bolivia","Mujer",696.299396671845
+"223",2008,"BRA","Brazil","Mujer",840.187042933368
+"224",2008,"COL","Colombia","Mujer",569204.873567056
+"225",2008,"CRI","Costa Rica","Mujer",203741.85092437
+"226",2008,"DOM","Dominican Republic","Mujer",8012.54536493625
+"227",2008,"ECU","Ecuador","Mujer",227.51341137432
+"228",2008,"MEX","Mexico","Mujer",2170.48291634971
+"229",2008,"PER","Peru","Mujer",147.825732707204
+"230",2008,"PRY","Paraguay","Mujer",978031.494769716
+"231",2008,"SLV","El Salvador","Mujer",212.58669091292
+"232",2008,"URY","Uruguay","Mujer",3199.48600990415
+"233",2009,"ARG","Argentina","Hombre",1014.03397547557
+"234",2009,"BOL","Bolivia","Hombre",1584.04590258254
+"235",2009,"BRA","Brazil","Hombre",1244.5100297994
+"236",2009,"CHL","Chile","Hombre",390431.993165889
+"237",2009,"COL","Colombia","Hombre",784528.451609653
+"238",2009,"CRI","Costa Rica","Hombre",307059.042553191
+"239",2009,"DOM","Dominican Republic","Hombre",11180.0884745011
+"240",2009,"ECU","Ecuador","Hombre",290.409398706787
+"241",2009,"PER","Peru","Hombre",479.342652566648
+"242",2009,"PRY","Paraguay","Hombre",1362447.41615103
+"243",2009,"SLV","El Salvador","Hombre",264.529243388082
+"244",2009,"URY","Uruguay","Hombre",7933.43075226725
+"245",2009,"ARG","Argentina","Mujer",526.070333072663
+"246",2009,"BOL","Bolivia","Mujer",880.989982637162
+"247",2009,"BRA","Brazil","Mujer",897.735331434855
+"248",2009,"CHL","Chile","Mujer",290354.512827312
+"249",2009,"COL","Colombia","Mujer",590228.990012856
+"250",2009,"CRI","Costa Rica","Mujer",237872.269155795
+"251",2009,"DOM","Dominican Republic","Mujer",8738.04592292089
+"252",2009,"ECU","Ecuador","Mujer",224.739089978599
+"253",2009,"PER","Peru","Mujer",225.949188497952
+"254",2009,"PRY","Paraguay","Mujer",1019843.7074682
+"255",2009,"SLV","El Salvador","Mujer",211.700855909141
+"256",2009,"URY","Uruguay","Mujer",3831.5510962952
+"257",2010,"ARG","Argentina","Hombre",1292.41122280991
+"258",2010,"COL","Colombia","Hombre",808209.308441545
+"259",2010,"CRI","Costa Rica","Hombre",314594.786541073
+"260",2010,"DOM","Dominican Republic","Hombre",10903.56538973
+"261",2010,"ECU","Ecuador","Hombre",321.523307116823
+"262",2010,"GTM","Guatemala","Hombre",2104.38773481413
+"263",2010,"MEX","Mexico","Hombre",3789.94835597707
+"264",2010,"PER","Peru","Hombre",515.953070160416
+"265",2010,"PRY","Paraguay","Hombre",1789171.46727296
+"266",2010,"SLV","El Salvador","Hombre",100.210887624739
+"267",2010,"URY","Uruguay","Hombre",8567.63598135394
+"268",2010,"ARG","Argentina","Mujer",650.710488377744
+"269",2010,"COL","Colombia","Mujer",603821.720238523
+"270",2010,"CRI","Costa Rica","Mujer",263355.830783619
+"271",2010,"DOM","Dominican Republic","Mujer",9075.05262934225
+"272",2010,"ECU","Ecuador","Mujer",263.784391049156
+"273",2010,"GTM","Guatemala","Mujer",1873.5377428115
+"274",2010,"MEX","Mexico","Mujer",2005.76907946018
+"275",2010,"PER","Peru","Mujer",244.167127950684
+"276",2010,"PRY","Paraguay","Mujer",1271263.44805908
+"277",2010,"SLV","El Salvador","Mujer",56.1318581166999
+"278",2010,"URY","Uruguay","Mujer",4321.16331711379
+"279",2011,"ARG","Argentina","Hombre",1671.77067547088
+"280",2011,"BOL","Bolivia","Hombre",2047.12622760189
+"281",2011,"BRA","Brazil","Hombre",1492.26934629273
+"282",2011,"CHL","Chile","Hombre",509340.380690123
+"283",2011,"COL","Colombia","Hombre",858539.863765015
+"284",2011,"CRI","Costa Rica","Hombre",362300.502715035
+"285",2011,"DOM","Dominican Republic","Hombre",11943.5331556611
+"286",2011,"ECU","Ecuador","Hombre",362.605803974706
+"287",2011,"GTM","Guatemala","Hombre",2296.62197362879
+"288",2011,"PER","Peru","Hombre",491.32691900337
+"289",2011,"PRY","Paraguay","Hombre",1990028.45523493
+"290",2011,"SLV","El Salvador","Hombre",263.912512345637
+"291",2011,"URY","Uruguay","Hombre",9522.11658463284
+"292",2011,"ARG","Argentina","Mujer",861.985733183744
+"293",2011,"BOL","Bolivia","Mujer",1081.52365882654
+"294",2011,"BRA","Brazil","Mujer",1120.25183601973
+"295",2011,"CHL","Chile","Mujer",363075.072578227
+"296",2011,"COL","Colombia","Mujer",646646.014260703
+"297",2011,"CRI","Costa Rica","Mujer",309860.459201897
+"298",2011,"DOM","Dominican Republic","Mujer",9535.60416428571
+"299",2011,"ECU","Ecuador","Mujer",298.414229412985
+"300",2011,"GTM","Guatemala","Mujer",1921.36846254854
+"301",2011,"PER","Peru","Mujer",193.487838270701
+"302",2011,"PRY","Paraguay","Mujer",1396670.75945065
+"303",2011,"SLV","El Salvador","Mujer",217.100612871774
+"304",2011,"URY","Uruguay","Mujer",4914.5210453505
+"305",2012,"ARG","Argentina","Hombre",2072.58361229172
+"306",2012,"BOL","Bolivia","Hombre",2274.26192983122
+"307",2012,"BRA","Brazil","Hombre",1672.4474540257
+"308",2012,"COL","Colombia","Hombre",890655.226475818
+"309",2012,"CRI","Costa Rica","Hombre",340280.531074746
+"310",2012,"DOM","Dominican Republic","Hombre",11818.5778727765
+"311",2012,"ECU","Ecuador","Hombre",383.828798001195
+"312",2012,"GTM","Guatemala","Hombre",2395.45920423521
+"313",2012,"MEX","Mexico","Hombre",3695.47687284333
+"314",2012,"PER","Peru","Hombre",533.087000690288
+"315",2012,"PRY","Paraguay","Hombre",1769805.6448798
+"316",2012,"SLV","El Salvador","Hombre",276.495495976814
+"317",2012,"URY","Uruguay","Hombre",10508.1073866217
+"318",2012,"ARG","Argentina","Mujer",1068.81077051113
+"319",2012,"BOL","Bolivia","Mujer",1374.90619977147
+"320",2012,"BRA","Brazil","Mujer",1240.64047901242
+"321",2012,"COL","Colombia","Mujer",654994.185256944
+"322",2012,"CRI","Costa Rica","Mujer",294706.287891508
+"323",2012,"DOM","Dominican Republic","Mujer",9636.19030510328
+"324",2012,"ECU","Ecuador","Mujer",327.300198807157
+"325",2012,"GTM","Guatemala","Mujer",1773.73965108677
+"326",2012,"MEX","Mexico","Mujer",1899.27549494186
+"327",2012,"PER","Peru","Mujer",218.349594502986
+"328",2012,"PRY","Paraguay","Mujer",1295847.29833987
+"329",2012,"SLV","El Salvador","Mujer",220.526676682268
+"330",2012,"URY","Uruguay","Mujer",5624.44784712834
+"331",2013,"ARG","Argentina","Hombre",2651.22773806865
+"332",2013,"BOL","Bolivia","Hombre",2793.60677717991
+"333",2013,"BRA","Brazil","Hombre",1833.2156880203
+"334",2013,"CHL","Chile","Hombre",568057.906095105
+"335",2013,"COL","Colombia","Hombre",925973.732279189
+"336",2013,"CRI","Costa Rica","Hombre",359180.816634181
+"337",2013,"DOM","Dominican Republic","Hombre",12573.0460992916
+"338",2013,"ECU","Ecuador","Hombre",423.14606741573
+"339",2013,"GTM","Guatemala","Hombre",2553.34597125123
+"340",2013,"PER","Peru","Hombre",558.635609917779
+"341",2013,"PRY","Paraguay","Hombre",2095937.8859842
+"342",2013,"SLV","El Salvador","Hombre",301.748881678673
+"343",2013,"URY","Uruguay","Hombre",11560.5754077015
+"344",2013,"ARG","Argentina","Mujer",1350.29724078835
+"345",2013,"BOL","Bolivia","Mujer",1708.36831097141
+"346",2013,"BRA","Brazil","Mujer",1376.05573841759
+"347",2013,"CHL","Chile","Mujer",398681.855773118
+"348",2013,"COL","Colombia","Mujer",703527.323976615
+"349",2013,"CRI","Costa Rica","Mujer",315113.275838222
+"350",2013,"DOM","Dominican Republic","Mujer",10562.2555578947
+"351",2013,"ECU","Ecuador","Mujer",350.506426974665
+"352",2013,"GTM","Guatemala","Mujer",2050.2192051914
+"353",2013,"PER","Peru","Mujer",238.779945767613
+"354",2013,"PRY","Paraguay","Mujer",1527247.61091955
+"355",2013,"SLV","El Salvador","Mujer",243.212798579847
+"356",2013,"URY","Uruguay","Mujer",6254.14571166096
+"357",2014,"ARG","Argentina","Hombre",3412.78362073385
+"358",2014,"BOL","Bolivia","Hombre",2847.57800531542
+"359",2014,"BRA","Brazil","Hombre",1955.18416938111
+"360",2014,"COL","Colombia","Hombre",967986.541320234
+"361",2014,"CRI","Costa Rica","Hombre",383007.336291602
+"362",2014,"DOM","Dominican Republic","Hombre",13993.6531129402
+"363",2014,"ECU","Ecuador","Hombre",482.02142455746
+"364",2014,"GTM","Guatemala","Hombre",2656.28032511208
+"365",2014,"MEX","Mexico","Hombre",4566.18994772659
+"366",2014,"PER","Peru","Hombre",582.178572102388
+"367",2014,"PRY","Paraguay","Hombre",2462745.38192935
+"368",2014,"SLV","El Salvador","Hombre",301.627135360088
+"369",2014,"URY","Uruguay","Hombre",13262.3437836514
+"370",2014,"ARG","Argentina","Mujer",1771.22073353761
+"371",2014,"BOL","Bolivia","Mujer",1837.94672930531
+"372",2014,"BRA","Brazil","Mujer",1481.07578020009
+"373",2014,"COL","Colombia","Mujer",740452.586182641
+"374",2014,"CRI","Costa Rica","Mujer",329614.72697846
+"375",2014,"DOM","Dominican Republic","Mujer",11668.5035069106
+"376",2014,"ECU","Ecuador","Mujer",380.096439169139
+"377",2014,"GTM","Guatemala","Mujer",2270.11355375825
+"378",2014,"MEX","Mexico","Mujer",2380.40152797681
+"379",2014,"PER","Peru","Mujer",252.172727776229
+"380",2014,"PRY","Paraguay","Mujer",1595455.29115061
+"381",2014,"SLV","El Salvador","Mujer",249.964568069588
+"382",2014,"URY","Uruguay","Mujer",7151.30654662267
+"383",2016,"ARG","Argentina","Hombre",4677.3033693851
+"384",2016,"BOL","Bolivia","Hombre",2847.15584234101
+"385",2016,"BRA","Brazil","Hombre",1920.72223218288
+"386",2016,"COL","Colombia","Hombre",1068434.25263508
+"387",2016,"CRI","Costa Rica","Hombre",442964.531039141
+"388",2016,"DOM","Dominican Republic","Hombre",16682.8758934957
+"389",2016,"ECU","Ecuador","Hombre",484.959961192582
+"390",2016,"GTM","Guatemala","Hombre",2778.28002620173
+"391",2016,"MEX","Mexico","Hombre",5291.23504164468
+"392",2016,"PER","Peru","Hombre",642.215300280857
+"393",2016,"PRY","Paraguay","Hombre",2109829.50486345
+"394",2016,"SLV","El Salvador","Hombre",305.981504352809
+"395",2016,"URY","Uruguay","Hombre",15507.1429890821
+"396",2016,"ARG","Argentina","Mujer",2579.88291642746
+"397",2016,"BOL","Bolivia","Mujer",1758.28319381973
+"398",2016,"BRA","Brazil","Mujer",1571.85669591149
+"399",2016,"COL","Colombia","Mujer",835092.481770466
+"400",2016,"CRI","Costa Rica","Mujer",363165.516438571
+"401",2016,"DOM","Dominican Republic","Mujer",13966.2530837393
+"402",2016,"ECU","Ecuador","Mujer",394.49006383235
+"403",2016,"GTM","Guatemala","Mujer",2246.76822896931
+"404",2016,"MEX","Mexico","Mujer",2539.71147384099
+"405",2016,"PER","Peru","Mujer",285.930978970597
+"406",2016,"PRY","Paraguay","Mujer",1437612.13102268
+"407",2016,"SLV","El Salvador","Mujer",246.123611612485
+"408",2016,"URY","Uruguay","Mujer",8918.57512431835
+"409",2017,"ARG","Argentina","Hombre",6420.97028727084
+"410",2017,"BOL","Bolivia","Hombre",3043.41258128108
+"411",2017,"BRA","Brazil","Hombre",2027.42179752255
+"412",2017,"CHL","Chile","Hombre",604503.541530075
+"413",2017,"COL","Colombia","Hombre",1115036.50934431
+"414",2017,"CRI","Costa Rica","Hombre",449688.504247801
+"415",2017,"DOM","Dominican Republic","Hombre",18761.265254994
+"416",2017,"ECU","Ecuador","Hombre",508.609948632724
+"417",2017,"GTM","Guatemala","Hombre",2885.55604289807
+"418",2017,"PER","Peru","Hombre",640.421981323647
+"419",2017,"PRY","Paraguay","Hombre",2326535.23009571
+"420",2017,"SLV","El Salvador","Hombre",321.354084759929
+"421",2017,"URY","Uruguay","Hombre",17072.5433902106
+"422",2017,"ARG","Argentina","Mujer",3586.91692536328
+"423",2017,"BOL","Bolivia","Mujer",2037.50229521586
+"424",2017,"BRA","Brazil","Mujer",1648.43927391425
+"425",2017,"CHL","Chile","Mujer",461164.176929749
+"426",2017,"COL","Colombia","Mujer",885655.733420565
+"427",2017,"CRI","Costa Rica","Mujer",389523.905228217
+"428",2017,"DOM","Dominican Republic","Mujer",14039.2267976748
+"429",2017,"ECU","Ecuador","Mujer",410.143972092473
+"430",2017,"GTM","Guatemala","Mujer",2330.14048629307
+"431",2017,"PER","Peru","Mujer",294.864609355926
+"432",2017,"PRY","Paraguay","Mujer",1499639.10032111
+"433",2017,"SLV","El Salvador","Mujer",262.912173317876
+"434",2017,"URY","Uruguay","Mujer",9927.38243406777
+"435",2018,"ARG","Argentina","Hombre",8112.04892123351
+"436",2018,"BOL","Bolivia","Hombre",3032.28781679756
+"437",2018,"BRA","Brazil","Hombre",2162.72213717795
+"438",2018,"COL","Colombia","Hombre",1155738.6440454
+"439",2018,"CRI","Costa Rica","Hombre",446966.466006037
+"440",2018,"DOM","Dominican Republic","Hombre",20015.0770773218
+"441",2018,"ECU","Ecuador","Hombre",497.302019256486
+"442",2018,"GTM","Guatemala","Hombre",2950.39735182102
+"443",2018,"MEX","Mexico","Hombre",5701.13237445289
+"444",2018,"PER","Peru","Hombre",661.624219723954
+"445",2018,"PRY","Paraguay","Hombre",2363834.91568456
+"446",2018,"SLV","El Salvador","Hombre",334.848412992722
+"447",2018,"URY","Uruguay","Hombre",17669.2715836505
+"448",2018,"ARG","Argentina","Mujer",4558.8812326345
+"449",2018,"BOL","Bolivia","Mujer",2046.76003233507
+"450",2018,"BRA","Brazil","Mujer",1755.13858760508
+"451",2018,"COL","Colombia","Mujer",938372.907326766
+"452",2018,"CRI","Costa Rica","Mujer",394806.014241294
+"453",2018,"DOM","Dominican Republic","Mujer",15194.4867544549
+"454",2018,"ECU","Ecuador","Mujer",414.513155057149
+"455",2018,"GTM","Guatemala","Mujer",2384.28309048039
+"456",2018,"MEX","Mexico","Mujer",2871.89834230573
+"457",2018,"PER","Peru","Mujer",309.684195028618
+"458",2018,"PRY","Paraguay","Mujer",1676975.82121169
+"459",2018,"SLV","El Salvador","Mujer",271.526622478875
+"460",2018,"URY","Uruguay","Mujer",10480.0918659275
