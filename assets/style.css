@@ -1,0 +1,113 @@
+* {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#main {
+    width: 95%;
+    margin: 0 auto 25px;
+}
+#page1 {
+    width: 95%;
+    margin: 50px auto 25px;
+}
+.body {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#row-2 {
+    margin-top: -10px;
+}
+#label, #label2 {
+    display: block;
+    float: left;
+}
+#label {
+        margin-left: 100px;
+}
+#years, #years1 {
+    display: block;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+    transform: translateY(-3px);
+    z-index:-1;
+    width: 100px;
+}
+#page1-2, #page1-3 {
+    margin: 10px auto;
+    position: relative;
+    z-index:1;
+}
+#radioitems-input {
+    display: flex;
+    margin-left: 100px;
+}
+.divi {
+    width: 100%;
+    transform: translateX(-1%);
+}
+#info {
+    width: 98%;
+    transform: translateY(-7%);
+    margin-left: 7px;
+    padding: 7px;
+}
+#info h2 {
+    text-align: center;
+    margin-bottom: -5px;
+    padding-left: 50px;
+}
+#country, #country3 {
+    margin: 0 auto;
+}
+hr {
+    width: 90%;
+    transform: translateX(5%)
+}
+img {
+    width: 100%;
+    height: 410px;
+}
+.plot {
+    width: 100%;
+}
+.plot-2 {
+    margin-right: 10px;
+}
+.row {
+    margin-top: 15px;
+}
+.card  {
+    width: 100%;
+}
+.c-name {
+    background: whitesmoke;
+}
+.bar {
+    margin-top:-5px;
+}
+#table {
+    width: 75%;
+    margin: -10px auto 0;
+}
+#plot-1, #plot-1_1 {
+    margin-top:-20px;
+}
+.column-header-name {
+    padding-left: 2px;
+    padding-right: 2px;
+}
+#text {
+ padding-left:15px;
+ padding-right: 10px
+}
+#link {
+    transform: translateX(80%);
+}
+
+@media (max-width: 185px) {
+    #years {
+        margin-left: 5px ;
+    }
+}
