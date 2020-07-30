@@ -56,5 +56,5 @@ def display_page(pathanme):
         return page4.layout
 
 
-if __name__ == '__main__':
-    app.run_server(debug=True, port=4050)
+if __name__ == "__main__":
+    app.run_server(debug=True)
