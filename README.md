@@ -12,4 +12,4 @@ The app was created using the plotly-dash Framework for python. This framework e
 
 ## Page
 
-To use and explor the app go to: https://iicp-2020.herokuapp.com/
+To use and explore the app go to: https://iicp-2020.herokuapp.com/
