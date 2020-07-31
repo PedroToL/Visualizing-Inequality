@@ -10,3 +10,6 @@ Every representation, be it a graph or a table, is interactive, meaning that it 
 
 The app was created using the plotly-dash Framework for python. This framework enables users to fully exploit the data reflected in the charts and makes a complete interactive experience. For further information visit: https://plotly.com/
 
+## Page
+
+To use and explor the app go to: https://iicp-2020.herokuapp.com/
