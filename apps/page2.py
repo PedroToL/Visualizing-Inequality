@@ -86,7 +86,7 @@ layout = html.Div(
                                                             html.H2(id='country1'),
                                                             html.Hr(),
                                                             html.P(id='text'),
-                                                            html.A('World Factbook', id='link')
+                                                            html.A('World Factbook', id='link', target="_blank")
                                                         ], id='info', className='c-name')),
 
                                                 dbc.Row(
